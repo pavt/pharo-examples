@@ -18,3 +18,9 @@ Counter >> count: anInteger [
 
 	count := anInteger
 ]
+
+{ #category : #accessing }
+Counter >> increment [
+
+	count := count + 1.
+]
