@@ -1,2 +1,2 @@
 # pharo-examples
-Some examples and mini projects of Pharo MOOC
+Examples and mini projects of Pharo MOOC
